@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "79239055842",
+    "firebase_url": "https://myclosetapp-44dd1-default-rtdb.firebaseio.com",
+    "project_id": "myclosetapp-44dd1",
+    "storage_bucket": "myclosetapp-44dd1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79239055842:android:3ebf27c77dd9212fbad1bb",
+        "android_client_info": {
+          "package_name": "com.example.closets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiQnt3LE5jJILLwJjGLjavYwQLM-pbLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79239055842:android:00fdb8d968c9624ebad1bb",
+        "android_client_info": {
+          "package_name": "com.example.ootd_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiiQnt3LE5jJILLwJjGLjavYwQLM-pbLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
